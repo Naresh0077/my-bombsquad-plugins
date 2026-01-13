@@ -1,0 +1,8 @@
+{
+  "utilities": [
+    {
+      "name": "Character Chooser",
+      "filename": "plugins/utilities/character_chooser.py"
+    }
+  ]
+}
